@@ -1,0 +1,19 @@
+label {font-size: 20px;
+    padding-left: 25px;}
+
+input {margin-left: 25px;
+}
+
+input.form-control {width:600px;}
+
+textarea.form-control {width:1290px;
+                    height:45px}
+
+textarea {margin-left: 25px;
+}
+
+h1 {margin-left: 25px;}
+
+button.btn {margin-left: 25px;
+         background-color: rgb(31, 31, 31);
+         outline-color: black;}
