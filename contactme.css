@@ -4,10 +4,12 @@ label {font-size: 20px;
 input {margin-left: 25px;
 }
 
-input.form-control {width:600px;}
+input.form-control {width:600px;
+                    margin-left: 20px;}
 
 textarea.form-control {width:1290px;
-                    height:45px}
+                       height:45px;
+                       margin-left: 25px;}
 
 textarea {margin-left: 25px;
 }
